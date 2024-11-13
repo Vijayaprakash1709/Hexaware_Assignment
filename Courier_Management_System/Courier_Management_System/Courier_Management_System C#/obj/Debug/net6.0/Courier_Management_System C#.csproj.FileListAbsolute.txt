@@ -1,0 +1,15 @@
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\bin\Debug\net6.0\Courier_Management_System C#.exe
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\bin\Debug\net6.0\Courier_Management_System C#.deps.json
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\bin\Debug\net6.0\Courier_Management_System C#.runtimeconfig.json
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\bin\Debug\net6.0\Courier_Management_System C#.dll
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\bin\Debug\net6.0\Courier_Management_System C#.pdb
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.AssemblyInfoInputs.cache
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.AssemblyInfo.cs
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.csproj.CoreCompileInputs.cache
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.sourcelink.json
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.dll
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\refint\Courier_Management_System C#.dll
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.pdb
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\Courier_Management_System C#.genruntimeconfig.cache
+D:\Vijay External Projects\Hexaware Training\Assignment\Courier_Management_System\Courier_Management_System\Courier_Management_System C#\obj\Debug\net6.0\ref\Courier_Management_System C#.dll
